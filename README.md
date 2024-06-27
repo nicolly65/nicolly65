@@ -6,6 +6,6 @@
 - Estou estudando no Alura,
 - utilizando esse espaço para compartilhar os meus projetos
 
-## você pode entar em contato comigo 📧
+ ## você pode entar em contato comigo 📧
 
 zampieri.nicolly@escola.pr.gov.br
